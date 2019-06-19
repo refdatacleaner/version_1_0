@@ -1,0 +1,19 @@
+RefDataCleaner: A Usable Data Cleaning Tool
+Juan Carlos Leon Medina and Ixent Galpin
+Dpto. de Ingeniería
+Universidad Jorge Tadeo Lozano,Bogotá, Colombia
+2019
+
+Welcome
+
+Please download and put files into a folder like this;
+
+global.R
+server.r
+ui.r
+files / start.md
+images / reference.gif
+images / substitution.gif
+www / estilos.css
+
+And enjoy it.
